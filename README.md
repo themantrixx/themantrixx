@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there! I'm Shreemant Sahu aka T H Ξ M Λ N T R I X X <img src="https://tenor.com/view/wave-hello-hand-hi-happy-gif-13848473" width="30" height="30" /></h1>
+  <h1>Hey there! I'm Shreemant Sahu aka T H Ξ M Λ N T R I X X <img src="https://media.tenor.com/Zh_jzyMKfn0AAAAi/wave-hello.gif" width="30" height="30" /></h1>
   <h3>🚀 Aspiring Software Engineer | 🌐Cyber Security Enthusiast | 📱 Mobile App Creator</h3>
 </div>
 
@@ -41,12 +41,12 @@ struct Developer {
   <h2>🛠️ Languages and Tools</h2>
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,mysql,git,github,linux,vscode,discord,canva&perline=11" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; padding: 20px;">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,mysql,git,github,linux,vscode,discord,canva&perline=11" style="max-width: 100%; height: auto;" />
 </div>
 
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35" /> GitHub Analytics</h2>
+  <h2><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35" height="35" /> GitHub Analytics</h2>
 </div>
 
 <div align="center">
@@ -94,13 +94,7 @@ struct Developer {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=themantrixx&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true" />
 </div>
 
-<div align="center">
-  <h2>🐍 Snake Eating My Contributions</h2>
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/themantrixx/themantrixx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 <div align="center">
   <h2>🤝 Let's Connect!</h2>
