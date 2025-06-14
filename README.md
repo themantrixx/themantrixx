@@ -130,9 +130,12 @@ struct Developer {
 &lt;!-- BLOG-POST-LIST:START --&gt;
 &lt;!-- BLOG-POST-LIST:END --&gt; -->
 
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=themantrixx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/themantrixx?label=Followers&style=social" alt="GitHub followers" />
 </div>
+
+![snake gif](https://github.com/themantrixx/themantrixx/blob/output/github-contribution-grid-snake.gif)
 
 ---
