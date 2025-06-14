@@ -1,3 +1,4 @@
+![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <div align="center">
   <h1>Hey there! I'm Shreemant Sahu aka T H Ξ M Λ N T R I X X <img src="https://media.tenor.com/Zh_jzyMKfn0AAAAi/wave-hello.gif" width="30" height="30" /></h1>
   <h3>🚀 Aspiring Software Engineer | 🌐Cyber Security Enthusiast | 📱 Mobile App Creator</h3>
@@ -8,8 +9,6 @@
 </div>
 
 <br>
-
----
 
 <div align="center">
   <h2>🧑‍💻 About Me</h2>
@@ -24,10 +23,9 @@ using namespace std;
 struct Developer {
     string name = "Shreemant Sahu";
     string location = "Delhi, India";
-    string education = "Computer Science Graduate";
+    string education = "Final Year Computer Science Student";
     string currentFocus = "App Development";
-    vector<string> technologies = {"JavaScript", "React", "Node.js", "Python"};
-    vector<string> currentlyLearning = {"Machine Learning", "Cloud Computing"};
+    vector<string> technologies = {"C", "C++", "Python", "MySQL", "Git", "Linux", "Bootstrap"};
     vector<string> askMeAbout = {"Mobile Apps", "System Design"};
     string funFact = "Switched to Linux and never looked back — except to flex it.";
     
@@ -38,8 +36,6 @@ struct Developer {
     }
 };
 ```
-
----
 
 <div align="center">
   <h2>🛠️ Languages and Tools</h2>
@@ -57,8 +53,6 @@ struct Developer {
   </p>
 </div>
 
----
-
 <div align="center">
   <h2><img src="https://media.lordicon.com/icons/wired/flat/159-pie-chart-multi.gif" width="35" height="35" /> GitHub Analytics</h2>
 </div>
@@ -71,8 +65,6 @@ struct Developer {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=themantrixx&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
----
 
 <div align="center">
   <h2>🏆 GitHub Achievements</h2>
@@ -102,8 +94,6 @@ struct Developer {
 &lt;!--START_SECTION:activity--&gt;
 &lt;!--END_SECTION:activity--&gt; -->
 
----
-
 <div align="center">
   <h2>📈 Contribution Graph</h2>
 </div>
@@ -111,8 +101,6 @@ struct Developer {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=themantrixx&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true" />
 </div>
-
----
 
 <div align="center">
   <h2>🤝 Let's Connect!</h2>
@@ -126,8 +114,6 @@ struct Developer {
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreemant.sahu04@gmail.com)
 
 </div>
-
----
 
 <div align="center">
   <h2>💡 Random Dev Quote</h2>
