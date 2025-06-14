@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there! I'm Shreemant Sahu aka T H Ξ M Λ N T R I X X 👋</h1>
+  <h1>Hey there! I'm Shreemant Sahu aka T H Ξ M Λ N T R I X X <img src="https://tenor.com/view/wave-hello-hand-hi-happy-gif-13848473" width="30" height="30" /></h1>
   <h3>🚀 Aspiring Software Engineer | 🌐Cyber Security Enthusiast | 📱 Mobile App Creator</h3>
 </div>
 
@@ -42,11 +42,11 @@ struct Developer {
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,mysql,git,github,linux,vscode,discord&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,mysql,git,github,linux,vscode,discord&perline=10" />
 </div>
 
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
+  <h2><img src="https://iconscout.com/lottie-animation/circle-graph-6411497_5327212" width="25" height="25" /> GitHub Analytics</h2>
 </div>
 
 <div align="center">
@@ -66,7 +66,7 @@ struct Developer {
   <img src="https://github-profile-trophy.vercel.app/?username=themantrixx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h2>🌟 Featured Projects</h2>
 </div>
 
@@ -77,14 +77,14 @@ struct Developer {
   <a href="https://github.com/themantrixx/project2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themantrixx&repo=project2&theme=tokyonight" />
   </a>
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <h2>🔥 Recent Activity</h2>
 </div>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+&lt;!--START_SECTION:activity--&gt;
+&lt;!--END_SECTION:activity--&gt; -->
 
 <div align="center">
   <h2>📈 Contribution Graph</h2>
@@ -95,15 +95,22 @@ struct Developer {
 </div>
 
 <div align="center">
+  <h2>🐍 Snake Eating My Contributions</h2>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/themantrixx/themantrixx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
   <h2>🤝 Let's Connect!</h2>
 </div>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreemant-s-9a4919260/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SahuShreemant09)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreemant.sahu04@gmail.com)
 
 </div>
 
@@ -115,12 +122,12 @@ struct Developer {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h2>📄 Latest Blog Posts</h2>
 </div>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+&lt;!-- BLOG-POST-LIST:START --&gt;
+&lt;!-- BLOG-POST-LIST:END --&gt; -->
 
 ---
 
