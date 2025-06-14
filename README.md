@@ -46,7 +46,7 @@ struct Developer {
     <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,mysql,git&perline=6" />
   </p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=github,linux,vscode,discord&perline=4" />
+    <img src="https://skillicons.dev/icons?i=github,linux,debian,vscode,discord&perline=5" />
   </p>
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
