@@ -41,12 +41,14 @@ struct Developer {
   <h2>🛠️ Languages and Tools</h2>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; padding: 20px;">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,mysql,git,github,linux,vscode,discord,canva&perline=11" style="max-width: 100%; height: auto;" />
+<div align="center">
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,mysql,git,github,linux,vscode,discord,canva&perline=11" />
+  </p>
 </div>
 
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35" height="35" /> GitHub Analytics</h2>
+  <h2><img src="https://media.lordicon.com/icons/wired/flat/159-pie-chart-multi.gif" width="35" height="35" /> GitHub Analytics</h2>
 </div>
 
 <div align="center">
@@ -94,8 +96,6 @@ struct Developer {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=themantrixx&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true" />
 </div>
 
-
-
 <div align="center">
   <h2>🤝 Let's Connect!</h2>
 </div>
@@ -109,6 +109,8 @@ struct Developer {
 
 </div>
 
+---
+
 <div align="center">
   <h2>💡 Random Dev Quote</h2>
 </div>
@@ -117,20 +119,9 @@ struct Developer {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-<!-- <div align="center">
-  <h2>📄 Latest Blog Posts</h2>
-</div>
-
-&lt;!-- BLOG-POST-LIST:START --&gt;
-&lt;!-- BLOG-POST-LIST:END --&gt; -->
-
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=themantrixx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/themantrixx?label=Followers&style=social" alt="GitHub followers" />
-</div>
-
-<div align="center">
-  <h3>✨ Thanks for visiting! Have a great day! ✨</h3>
 </div>
