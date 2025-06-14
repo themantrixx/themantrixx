@@ -9,6 +9,8 @@
 
 <br>
 
+---
+
 <div align="center">
   <h2>🧑‍💻 About Me</h2>
 </div>
@@ -37,6 +39,8 @@ struct Developer {
 };
 ```
 
+---
+
 <div align="center">
   <h2>🛠️ Languages and Tools</h2>
 </div>
@@ -53,6 +57,8 @@ struct Developer {
   </p>
 </div>
 
+---
+
 <div align="center">
   <h2><img src="https://media.lordicon.com/icons/wired/flat/159-pie-chart-multi.gif" width="35" height="35" /> GitHub Analytics</h2>
 </div>
@@ -65,6 +71,8 @@ struct Developer {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=themantrixx&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+---
 
 <div align="center">
   <h2>🏆 GitHub Achievements</h2>
@@ -94,6 +102,8 @@ struct Developer {
 &lt;!--START_SECTION:activity--&gt;
 &lt;!--END_SECTION:activity--&gt; -->
 
+---
+
 <div align="center">
   <h2>📈 Contribution Graph</h2>
 </div>
@@ -101,6 +111,8 @@ struct Developer {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=themantrixx&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true" />
 </div>
+
+---
 
 <div align="center">
   <h2>🤝 Let's Connect!</h2>
@@ -114,6 +126,8 @@ struct Developer {
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreemant.sahu04@gmail.com)
 
 </div>
+
+---
 
 <div align="center">
   <h2>💡 Random Dev Quote</h2>
