@@ -43,7 +43,9 @@ struct Developer {
 
 <div align="center">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,mysql,git,github,linux,vscode,discord,canva&perline=6" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,mysql,git,github,linux,vscode,discord&perline=6" />
+    <br><br>
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
   </p>
 </div>
 
