@@ -43,7 +43,7 @@ struct Developer {
 
 <div align="center">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,mysql,git,github,linux,vscode,discord,canva&perline=11" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,mysql,git,github,linux,vscode,discord,canva&perline=6" />
   </p>
 </div>
 
@@ -109,8 +109,6 @@ struct Developer {
 
 </div>
 
----
-
 <div align="center">
   <h2>💡 Random Dev Quote</h2>
 </div>
@@ -119,9 +117,16 @@ struct Developer {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
----
+<!-- <div align="center">
+  <h2>📄 Latest Blog Posts</h2>
+</div>
+
+&lt;!-- BLOG-POST-LIST:START --&gt;
+&lt;!-- BLOG-POST-LIST:END --&gt; -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=themantrixx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/themantrixx?label=Followers&style=social" alt="GitHub followers" />
 </div>
+
+---
