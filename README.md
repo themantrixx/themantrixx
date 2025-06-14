@@ -1,58 +1,53 @@
 <div align="center">
-  <h1>Hey there! I'm Shreemant Sahu 👋</h1>
-  <h3>🚀 Full Stack Developer | 🎨 UI/UX Enthusiast | 📱 Mobile App Creator</h3>
+  <h1>Hey there! I'm Shreemant Sahu aka T H Ξ M Λ N T R I X X 👋</h1>
+  <h3>🚀 Aspiring Software Engineer | 🌐Cyber Security Enthusiast | 📱 Mobile App Creator</h3>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+build+amazing+web+applications;Always+learning+new+technologies;Let's+create+something+awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;;Always+learning+new+technologies;Let's+create+something+awesome!" alt="Typing SVG" />
 </div>
 
 <br>
 
-## 🧑‍💻 About Me
+<div align="center">
+  <h2>🧑‍💻 About Me</h2>
+</div>
 
-```javascript
-const developer = {
-    name: "Shreemant Sahu",
-    location: "Your City, Country",
-    education: "Computer Science Graduate",
-    currentFocus: "Full Stack Development",
-    technologies: ["JavaScript", "React", "Node.js", "Python"],
-    currentlyLearning: ["Machine Learning", "Cloud Computing"],
-    askMeAbout: ["Web Development", "Mobile Apps", "System Design"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
+using namespace std;
+
+struct Developer {
+    string name = "Shreemant Sahu";
+    string location = "Delhi, India";
+    string education = "Computer Science Graduate";
+    string currentFocus = "App Development";
+    vector<string> technologies = {"JavaScript", "React", "Node.js", "Python"};
+    vector<string> currentlyLearning = {"Machine Learning", "Cloud Computing"};
+    vector<string> askMeAbout = {"Mobile Apps", "System Design"};
+    string funFact = "Switched to Linux and never looked back — except to flex it.";
+    
+    void introduce() {
+        cout << "Hello! I'm " << name << " from " << location << endl;
+        cout << "Currently focusing on: " << currentFocus << endl;
+        cout << "Fun fact: " << funFact << endl;
+    }
 };
 ```
 
-## 🛠️ Tech Stack
-
 <div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+  <h2>🛠️ Languages and Tools</h2>
 </div>
 
-## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,python,bootstrap,html,css,mysql,git,github,linux,vscode,discord,ps&perline=8" />
+</div>
+
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=themantrixx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -63,13 +58,17 @@ const developer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=themantrixx&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Achievements
+<div align="center">
+  <h2>🏆 GitHub Achievements</h2>
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=themantrixx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
-## 🌟 Featured Projects
+<div align="center">
+  <h2>🌟 Featured Projects</h2>
+</div>
 
 <div align="center">
   <a href="https://github.com/themantrixx/project1">
@@ -80,18 +79,24 @@ const developer = {
   </a>
 </div>
 
-## 🔥 Recent Activity
+<div align="center">
+  <h2>🔥 Recent Activity</h2>
+</div>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true" />
+  <h2>📈 Contribution Graph</h2>
 </div>
 
-## 🤝 Let's Connect!
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=themantrixx&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <h2>🤝 Let's Connect!</h2>
+</div>
 
 <div align="center">
   
@@ -102,13 +107,17 @@ const developer = {
 
 </div>
 
-## 💡 Random Dev Quote
+<div align="center">
+  <h2>💡 Random Dev Quote</h2>
+</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-## 📄 Latest Blog Posts
+<div align="center">
+  <h2>📄 Latest Blog Posts</h2>
+</div>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -116,8 +125,8 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=themantrixx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/themantrixx?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
 <div align="center">
