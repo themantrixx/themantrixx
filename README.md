@@ -43,7 +43,10 @@ struct Developer {
 
 <div align="center">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,mysql,git,github,linux,vscode,discord&perline=6" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,mysql,git&perline=6" />
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=github,linux,vscode,discord" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" style="margin-left: 4px;" />
   </p>
 </div>
 
