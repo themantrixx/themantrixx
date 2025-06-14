@@ -42,7 +42,7 @@ struct Developer {
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,python,bootstrap,html,css,mysql,git,github,linux,vscode,discord,ps&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,mysql,git,github,linux,vscode,discord&perline=8" />
 </div>
 
 <div align="center">
