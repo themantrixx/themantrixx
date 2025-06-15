@@ -141,7 +141,7 @@ struct Developer {
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> -->
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=themantrixx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
