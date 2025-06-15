@@ -1,4 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/04/db/b6/04dbb6bcd1fb49e6397fb90995be033f.gif" width="100%" style="display: block; margin: 0; padding: 0;" alt="MasterHead Banner" />
+</div>
+
 <div align="center">
   <h1>Hey there! I'm Shreemant Sahu aka T H Ξ M Λ N T R I X X <img src="https://media.tenor.com/Zh_jzyMKfn0AAAAi/wave-hello.gif" width="30" height="30" /></h1>
   <h3>🚀 Aspiring Software Engineer | 🌐Cyber Security Enthusiast | 📱 Mobile App Creator</h3>
@@ -91,8 +94,8 @@ struct Developer {
   <h2>🔥 Recent Activity</h2>
 </div>
 
-&lt;!--START_SECTION:activity--&gt;
-&lt;!--END_SECTION:activity--&gt; -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity--> -->
 
 <div align="center">
   <h2>📈 Contribution Graph</h2>
@@ -137,8 +140,8 @@ struct Developer {
   <h2>📄 Latest Blog Posts</h2>
 </div>
 
-&lt;!-- BLOG-POST-LIST:START --&gt;
-&lt;!-- BLOG-POST-LIST:END --&gt; -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END --> -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=themantrixx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
