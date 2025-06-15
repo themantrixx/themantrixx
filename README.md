@@ -95,7 +95,7 @@ struct Developer {
 </div>
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity--> -->
+<!--END_SECTION:activity-->
 
 <div align="center">
   <h2>📈 Contribution Graph</h2>
