@@ -57,7 +57,7 @@ struct Developer {
 </div>
 
 <div align="center">
-  <h2><img src="https://media.lordicon.com/icons/wired/flat/159-pie-chart-multi.gif" width="35" height="35" /> GitHub Analytics</h2>
+  <h2><img src="https://media.tenor.com/YGZ3sPPw7uYAAAAi/circular-graph-pie-chart.gif" width="30" height="30" /> GitHub Analytics</h2>
 </div>
 
 <div align="center">
