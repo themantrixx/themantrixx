@@ -1,40 +1,33 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Snake
 
-# Controls when the action will run.
+# Runs every 6 hours + on manual trigger
 on:
   schedule:
-    # every 6 hours
-    - cron: "0 */6 * * *"
-  # This command allows us to run the Action manually from the Actions tab.
-  workflow_dispatch:
+    - cron: "0 */6 * * *"  # Every 6 hours at minute 0
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      # Step 1: Checkout the repository
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      # Step 2: Generate the contribution snake SVGs
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate snake game
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: themantrixx
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Optional - Show git status for debugging
-      - run: git status
-
-      # Step 4: Commit and push the generated files
-      - name: Push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update snake animations
-          branch: output
-          create_branch: true
-          pull_strategy: MERGE  # Fix: merge remote changes before pushing
+      - name: Push to output branch
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add dist/
+          git commit -m "Update snake animations - $(date)" || exit 0
+          git push --force origin HEAD:output
