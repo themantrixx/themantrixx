@@ -1,4 +1,4 @@
-<!--div align="center"-->
+![image](https://github.com/user-attachments/assets/1e76883e-21ee-463c-8999-421fc1e14be7)<!--div align="center"-->
   <!--img src="https://i.pinimg.com/originals/04/db/b6/04dbb6bcd1fb49e6397fb90995be033f.gif" width="100%" style="display: block; margin: 0; padding: 0;" alt="MasterHead Banner" /-->
 <!--/div-->
 ![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
@@ -132,7 +132,7 @@ struct Developer {
 
 <div align="center">
   
-![Snake animation](https://github.com/themantrixx/themantrixx/blob/output/dist/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/themantrixx/themantrixx/blob/output/github-snake-dark.svg)
 
 </div>
 
