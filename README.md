@@ -132,7 +132,7 @@ struct Developer {
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/themantrixx/themantrixx/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/themantrixx/themantrixx/blob/output/dist/github-contribution-grid-snake-dark.svg)
 
 </div>
 
